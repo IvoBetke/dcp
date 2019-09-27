@@ -2,29 +2,20 @@
 #### Desenberg Capital Partners is a familiy office that invest its funds mainly in SDG-lead initiatives in EMEA.
 
 #### Germany
-Desenberg Capital Partners GmbH 
+Desenberg Capital Partners GmbH  
+Kalandstraße 5  
+34414 Warburg (Westf.)  
 
-Kalandstraße 5
+betke (at) dcp - warburg (punkt) com  
+www.dcp-warburg.com  
 
-34414 Warburg (Westf.)
-
-betke (at) dcp - warburg (punkt) com
-
-www.dcp-warburg.com
-
-Handelsregister: HRB 9797
-
-Geschäftsführerin: Petra Thoene
-
-Eingetragen am Amtsgericht Paderborn
-
-Sitz der Gesellschaft: Warburg (Westf.)
-
-Inhaltlich verantwortlich gem. §10 Absatz 3 MDStV: Petra Thoene
-
-Steuer-Nr.: 345/5811/1222
-
-Finanzamt Warburg
+Handelsregister: HRB 9797  
+Geschäftsführerin: Petra Thoene  
+Eingetragen am Amtsgericht Paderborn  
+Sitz der Gesellschaft: Warburg (Westf.)  
+Inhaltlich verantwortlich gem. §10 Absatz 3 MDStV: Petra Thoene  
+Steuer-Nr.: 345/5811/1222  
+Finanzamt Warburg  
 
 
 #### South Africa
