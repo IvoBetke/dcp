@@ -19,22 +19,16 @@ Finanzamt Warburg
 
 
 #### South Africa
-Desenberg Capital Partners GmbH
 
-Incorporated in (Republic of Germany)
+Desenberg Capital Partners GmbH  
+Incorporated in (Republic of Germany)  
+CIPRO Registration Number: 2011/004171/10  
 
-CIPRO Registration Number: 2011/004171/10
-
-
-Postal Adress
-
-c/o HARRY CURTIS & CO 
-
-2 Adelaide Road, Plumstead, 7800 
-
-P O Box 53067, Kenilworth, 7745 
-
-PAIA Documents (here)
+Postal Adress  
+c/o HARRY CURTIS & CO  
+2 Adelaide Road, Plumstead, 7800  
+P O Box 53067, Kenilworth, 7745  
+PAIA Documents (<a href="dcp_paia_120101.pdf">here</a>)  
 
 Disclaimer
 
