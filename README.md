@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+## Desenberg Capital Partners 
+# Desenberg Capital Partners is a familiy office that invest its funds mainly in SDG-lead initiatives in EMEA.
 
-You can use the [editor on GitHub](https://github.com/IvoBetke/dcp/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Desenberg Capital Partners GmbH 
+Kalandstraße 5
+34414 Warburg (Westf.)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+betke (at) dcp - warburg (punkt) com
+www.dcp-warburg.com
 
-### Markdown
+Handelsregister: HRB 9797
+Geschäftsführerin: Petra Thoene
+Eingetragen am Amtsgericht Paderborn
+Sitz der Gesellschaft: Warburg (Westf.)
+Inhaltlich verantwortlich gem. §10 Absatz 3 MDStV: Petra Thoene
+Steuer-Nr.: 345/5811/1222
+Finanzamt Warburg
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+South Africa
+Desenberg Capital Partners GmbH
+Incorporated in (Republic of Germany)
+CIPRO Registration Number: 2011/004171/10
 
-```markdown
-Syntax highlighted code block
+Postal Adress
+c/o HARRY CURTIS & CO 
+2 Adelaide Road, Plumstead, 7800 
+P O Box 53067, Kenilworth, 7745 
+PAIA Documents (here)
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/IvoBetke/dcp/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Disclaimer
+Inhalt und Struktur der Internet-Seiten dcp-warburg.com sind urheberrechtlich geschützt. Jegliche Vervielfältigung von Informationen oder Daten, insbesondere die Verwendung von Texten, Textteilen, Bildmaterial oder sonstigen Inhalten bedarf der vorherigen Zustimmung durch den Anbieter bzw. Rechteinhaber. 
+Die Informationen, die auf diesen Seiten abgerufen werden können, erheben weder einen Anspruch auf Richtigkeit noch auf Vollständigkeit. Die Benutzung erfolgt auf eigene Gefahr. 
+Wir weisen ausdrücklich darauf hin, dass wir für die Angebote Dritter im World Wide Web (sog “deep links”) nicht verantwortlich sind. Soweit Links auf die Angebote Dritter verweisen, enthalten diese nach unserer Kenntnis keine strafbaren oder anderweitig verbotenen Inhalte. Für diese Inhalte wird keinerlei Haftung übernommen
