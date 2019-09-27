@@ -1,5 +1,4 @@
 ## Desenberg Capital Partners 
-#### Desenberg Capital Partners is a familiy office that invest its funds mainly in SDG-lead initiatives in EMEA.
 
 #### Germany
 Desenberg Capital Partners GmbH  
